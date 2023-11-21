@@ -22,11 +22,11 @@ We specialize in reviving services long discontinued.
 Quite a lot, ranging from backends for defunct services to helpful libraries on the Wii! For an up-to-date status page, please see [our website](https://www.wiilink24.com/status).
 
 Our three most developed services are as follows:
-| Service       | Backend                                                 |
-|---------------|---------------------------------------------------------|
-| Wii no Ma     | [room-server](https://github.com/WiiLink24/room-server) |
-| Digicam       | [cam-server](https://github.com/WiiLink24/cam-server)   |
-| Demae Channel | [food-server](https://github.com/WiiLink24/food-server) |
+| Services                | Backend                                                 |
+|-------------------------|---------------------------------------------------------|
+| Wii Room                | [room-server](https://github.com/WiiLink24/room-server) |
+| Photo Prints Channel    | [cam-server](https://github.com/WiiLink24/cam-server)   |
+| Food Channel            | [food-server](https://github.com/WiiLink24/food-server) |
 
 We additionally have patchers for the contents of these channels themselves, updating things such as URLs, certificates, and region-specific logic.
 
